@@ -3,9 +3,9 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local("Product Sans Regular"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Regular.woff")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/woff/ProductSans-Regular.woff")
 			format("woff"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Regular.ttf")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/ttf/ProductSans-Regular.ttf")
 			format("ttf");
 }
 
@@ -14,9 +14,9 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local("Product Sans Italic"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Italic.woff")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/woff/ProductSans-Italic.woff")
 			format("woff"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Italic.ttf")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/ttf/ProductSans-Italic.ttf")
 			format("ttf");
 }
 
@@ -25,9 +25,9 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local("Product Sans Thin Regular"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Thin.woff")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/woff/ProductSans-Thin.woff")
 			format("woff"),
-		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main//ProductSans-Thin.ttf")
+		url("https://cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/ttf/ProductSans-Thin.ttf")
 			format("ttf");
 }
 
