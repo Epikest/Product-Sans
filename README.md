@@ -1,3 +1,3 @@
 ```css
-@import url(//cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/main.css);
+@import url(//cdn.jsdelivr.net/gh/Epikest/Product-Sans@main/main.min.css);
 ```
